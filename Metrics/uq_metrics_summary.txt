@@ -1,0 +1,36 @@
+UQ METRICS SUMMARY — Paper 4 Table 1 source
+======================================================================
+
+n_early=50:
+  MAE                 : 147.161 ± 38.435
+  MedAE               : 64.260 ± 11.782
+  RMSE                : 235.361 ± 64.887
+  PICP_gauss          : 0.345 ± 0.025
+  MPIW_gauss          : 95.900 ± 17.041
+  NLL_gauss           : 97.253 ± 50.081
+  CRPS_gauss          : 136.964 ± 36.756
+  PICP_conformal      : 0.945 ± 0.059
+  MPIW_conformal      : 1084.712 ± 369.367
+
+n_early=100:
+  MAE                 : 137.964 ± 40.780
+  MedAE               : 65.728 ± 26.285
+  RMSE                : 216.317 ± 65.780
+  PICP_gauss          : 0.498 ± 0.121
+  MPIW_gauss          : 149.103 ± 62.578
+  NLL_gauss           : 65.645 ± 79.649
+  CRPS_gauss          : 122.663 ± 38.318
+  PICP_conformal      : 0.963 ± 0.038
+  MPIW_conformal      : 1010.924 ± 362.974
+
+n_early=150:
+  MAE                 : 111.583 ± 38.215
+  MedAE               : 54.270 ± 16.615
+  RMSE                : 180.176 ± 75.521
+  PICP_gauss          : 0.381 ± 0.097
+  MPIW_gauss          : 77.805 ± 14.173
+  NLL_gauss           : 162.240 ± 220.635
+  CRPS_gauss          : 102.978 ± 38.833
+  PICP_conformal      : 0.940 ± 0.055
+  MPIW_conformal      : 821.553 ± 424.470
+

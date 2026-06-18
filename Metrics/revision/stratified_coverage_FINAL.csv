@@ -1,0 +1,24 @@
+definition,method,tertile,covered,n,picp,cp_lo,cp_hi
+DEF-A_equalthird,Deep Ensemble PINN-Knee,low,34,34,1.0,0.8972,1.0
+DEF-A_equalthird,Deep Ensemble PINN-Knee,mid,36,36,1.0,0.9026,1.0
+DEF-A_equalthird,Deep Ensemble PINN-Knee,high,26,32,0.8125,0.6356,0.9279
+DEF-A_equalthird,Gaussian Process,low,33,34,0.9706,0.8467,0.9993
+DEF-A_equalthird,Gaussian Process,mid,34,36,0.9444,0.8134,0.9932
+DEF-A_equalthird,Gaussian Process,high,27,32,0.8438,0.6721,0.9472
+DEF-A_equalthird,Ensemble NN,low,34,34,1.0,0.8972,1.0
+DEF-A_equalthird,Ensemble NN,mid,36,36,1.0,0.9026,1.0
+DEF-A_equalthird,Ensemble NN,high,27,32,0.8438,0.6721,0.9472
+DEF-A_equalthird,Heteroscedastic MLP,low,30,34,0.8824,0.7255,0.967
+DEF-A_equalthird,Heteroscedastic MLP,mid,36,36,1.0,0.9026,1.0
+DEF-A_equalthird,Heteroscedastic MLP,high,31,32,0.9688,0.8378,0.9992
+DEF-A_equalthird,Bayesian LSTM,low,34,34,1.0,0.8972,1.0
+DEF-A_equalthird,Bayesian LSTM,mid,36,36,1.0,0.9026,1.0
+DEF-A_equalthird,Bayesian LSTM,high,24,32,0.75,0.566,0.8854
+DEF-A_equalthird,CQR-PINN-Knee,low,29,34,0.8529,0.6894,0.9505
+DEF-A_equalthird,CQR-PINN-Knee,mid,35,36,0.9722,0.8547,0.9993
+DEF-A_equalthird,CQR-PINN-Knee,high,28,32,0.875,0.7101,0.9649
+DEF-A_equalthird,CQR-MLP,low,29,34,0.8529,0.6894,0.9505
+DEF-A_equalthird,CQR-MLP,mid,36,36,1.0,0.9026,1.0
+DEF-A_equalthird,CQR-MLP,high,31,32,0.9688,0.8378,0.9992
+DEF-B_fixed710,Deep Ensemble PINN-Knee,high,8,14,0.5714,0.2886,0.8234
+DEF-B_fixed710,CQR-PINN-Knee,high,11,14,0.7857,0.492,0.9534
